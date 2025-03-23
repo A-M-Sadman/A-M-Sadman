@@ -20,14 +20,17 @@ programming, web design, and development, I am dedicated to leveraging my skills
 
 ## 🔧 Skills
 - Languages: Python, Java, C++
-- Tools: Git, Colab
+- Tools: Git, Colab, VS code
 - Interests: DSA, Web Dev, JavaFX
 
 ## 🌟 Current Projects
 - Shomobay Puji Bank - A Python backend for a bank using 2D Array.
 - 
 
+## 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-M-Sadman&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-M-Sadman&layout=compact&theme=dark)
+
 ## 📫 Connect
-- Email: abdullahsadman2004@gmail.com
 - Linkedin: https://www.linkedin.com/in/a-m-sadman/
 - Website: https://abdullahsadman2004.wixsite.com/my-site
