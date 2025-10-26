@@ -19,13 +19,15 @@ I am a passionate Computer Science and Engineering student, driven by a profound
 programming, web design, and development, I am dedicated to leveraging my skills to create meaningful digital solutions.
 
 ## 🔧 Skills
-- Languages: Python, Java, C++
-- Tools: Git, Colab, VS code
+- Languages: Python, Java, C++, Node.js, React.js
+- Tools: Git, Colab, VS code, Intellij, Pycharm
 - Interests: DSA, Web Dev, JavaFX
 
 ## 🌟 Current Projects
 - Shomobay Puji Bank - A Python backend for a bank using 2D Array.
-- 
+- Disaster Management System - A disaster management emergency measuring system using Algorithm
+- Book Fair Simulator - A book fair simulator using Object Oriented Programming
+- Erudite - An E-learning Platform using SQL
 
 ## 📊 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-M-Sadman&show_icons=true&theme=dark)
