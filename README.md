@@ -23,7 +23,7 @@ programming, web design, and development, I am dedicated to leveraging my skills
 - Tools: Git, Colab, VS code, Intellij, Pycharm
 - Interests: DSA, Web Dev, JavaFX
 
-## 🌟 Current Projects
+## 🌟 Projects
 - Shomobay Puji Bank - A Python backend for a bank using 2D Array.
 - Disaster Management System - A disaster management emergency measuring system using Algorithm
 - Book Fair Simulator - A book fair simulator using Object Oriented Programming
